@@ -8,4 +8,36 @@
 	</buildSpec>
 	<natures>
 	</natures>
+	<linkedResources>
+		<link>
+			<name>adserver/MessageBar.jsx</name>
+			<type>1</type>
+			<location>/home/daniel/winterwell/adserver/src/components/MessageBar.jsx</location>
+		</link>
+		<link>
+			<name>adserver/NavBar.jsx</name>
+			<type>1</type>
+			<location>/home/daniel/winterwell/adserver/src/components/NavBar.jsx</location>
+		</link>
+		<link>
+			<name>adserver/publish-portal.sh</name>
+			<type>1</type>
+			<location>/home/daniel/winterwell/adserver/publish-portal.sh</location>
+		</link>
+		<link>
+			<name>sogive/MessageBar.jsx</name>
+			<type>1</type>
+			<location>/home/daniel/winterwell/sogive-app/src/components/MessageBar.jsx</location>
+		</link>
+		<link>
+			<name>sogive/NavBar.jsx</name>
+			<type>1</type>
+			<location>/home/daniel/winterwell/sogive-app/src/components/NavBar.jsx</location>
+		</link>
+		<link>
+			<name>sogive/publish-sogiveapp.sh</name>
+			<type>1</type>
+			<location>/home/daniel/winterwell/sogive-app/publish-sogiveapp.sh</location>
+		</link>
+	</linkedResources>
 </projectDescription>
