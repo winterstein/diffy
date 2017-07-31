@@ -7,7 +7,6 @@ module.exports = {
 	],
 	"rules": {
 		/* off because we dont agree with AirBnB's settings */
-		"radix": "off",
 		"arrow-body-style": "off",
 		"react/no-array-index-key": "warn",
 		"arrow-parens": "off",
@@ -46,9 +45,14 @@ module.exports = {
 		"space-in-parens": "off",
 		"space-unary-ops": "off",
 		"spaced-comment": "off",
+		"react/jsx-boolean-value": "warn",
+		"radix": "off",
 		/* broken - seems to cause errors in linting */
 		"no-multi-assign": "off",
 		/* off because the warnings are more noise than signal i.e. we might switch them on sometime*/
+		"no-var": "warn",
+		"vars-on-top": "warn",
+		"react/jsx-no-target-blank": "warn",
 		"comma-spacing": "off",
 		"consistent-return": "warn",
 		"import/extensions": "warn",

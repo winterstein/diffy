@@ -1,0 +1,1 @@
+../../sogive-app/src/components/NavBar.jsx
