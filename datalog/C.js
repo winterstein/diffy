@@ -1,1 +1,1 @@
-../../datalog/src/C.js
+../../datalog/src-js/C.js
