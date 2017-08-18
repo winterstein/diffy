@@ -87,5 +87,7 @@ module.exports = {
 	"globals": {
 		"window": true,
 		"document": true,
+		"navigator": true,
+		"$": true, // zepto is always available
 	}
 };
