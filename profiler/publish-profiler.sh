@@ -1,0 +1,1 @@
+/home/daniel/winterwell/code/profiler/publish-profiler.sh
