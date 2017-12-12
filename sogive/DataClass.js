@@ -1,1 +1,0 @@
-../../sogive-app/src/data/DataClass.js

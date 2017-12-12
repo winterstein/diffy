@@ -1,1 +1,0 @@
-../../adserver/src/data/MonetaryAmount.js
